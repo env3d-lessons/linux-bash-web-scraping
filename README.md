@@ -25,11 +25,8 @@ Below is a partial output of this script:
 @env3d ➜ /workspaces/linux-bash-web-scraping (main) $ ./extract_courses.sh 
 Please supply a program code
 @env3d ➜ /workspaces/linux-bash-web-scraping (main) $ ./extract_courses.sh comp
-https://www.capilanou.ca/programs--courses/courses/comp-101---computers-and-their-application/
 comp-101        An introduction to the basic concepts underlying computer hardware, software, operating systems, networks, applications, and coding, for students with little or no previous experience. Students also explore some of the social and ethical implications arising from the pervasive use of digital information technologies. The goals of this course are to gain a broad understanding of the science of computing, to develop practical skills applied to the use of the Internet and common computer applications, and to become actively engaged with both the promise and challenges of digital technology.
-https://www.capilanou.ca/programs--courses/courses/comp-106---programming-with-robots/
 comp-106        An introduction to the basic concepts of hardware, software, and computer programming using Sparki robots, for students with little or no experience. Students learn to apply fundamental engineering design and programming principles, and are exposed to a variety of topics including robotics and automation, operating systems, and digital communications. The course includes an examination of social issues arising from the application of robotics and automation technologies.
-https://www.capilanou.ca/programs--courses/courses/comp-107---animated-3d-game-programming/
 ```
 
 Create the `extract_courses.sh` file.
