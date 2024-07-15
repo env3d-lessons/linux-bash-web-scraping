@@ -22,9 +22,9 @@ that uses the "tab" key as delimiter (i.e. a tab separated file) with 2 fields:
 Below is a partial output of this script:
 
 ```console
-@env3d ➜ /workspaces/linux-bash-web-scraping (main) $ ./extract_courses.sh 
+$ ./extract_courses.sh 
 Please supply a program code
-@env3d ➜ /workspaces/linux-bash-web-scraping (main) $ ./extract_courses.sh comp
+$ ./extract_courses.sh comp
 comp-101        An introduction to the basic concepts underlying computer hardware, software, operating systems, networks, applications, and coding, for students with little or no previous experience. Students also explore some of the social and ethical implications arising from the pervasive use of digital information technologies. The goals of this course are to gain a broad understanding of the science of computing, to develop practical skills applied to the use of the Internet and common computer applications, and to become actively engaged with both the promise and challenges of digital technology.
 comp-106        An introduction to the basic concepts of hardware, software, and computer programming using Sparki robots, for students with little or no experience. Students learn to apply fundamental engineering design and programming principles, and are exposed to a variety of topics including robotics and automation, operating systems, and digital communications. The course includes an examination of social issues arising from the application of robotics and automation technologies.
 ```
