@@ -4,7 +4,7 @@ Web scraping is a technique used to extract data from websites.  It
 inolves writing a program to visit multiple web pages to extract
 relevant information.
 
-# Scaping a University Website
+# Scraping a University Website
 
 Let's say you want to gather all the course number and description from the
 Capilano University website into one single text file to make it easier to 
